@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "min_format": 15,
+    "max_format": 9999,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 9999
+    },
+    "description": "§b§l⚡ Speed SMP §7Pack\n§6By §aMC7DZ §7| §c_TheIc0nic"
+  }
+}

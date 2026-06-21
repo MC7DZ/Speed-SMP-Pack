@@ -1,0 +1,152 @@
+
+{
+
+  "providers": [
+    {
+      "_comment": "-------------------------------------------WIP start here-------------------------------------------",
+      "type": "bitmap",
+      "file": "minecraft:wip/c1.png",
+      "ascent": 16,
+      "height": 24,
+      "chars": [
+        "\ue492"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/c2.png",
+      "ascent": 16,
+      "height": 24,
+      "chars": [
+        "\ue493"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/c3.png",
+      "ascent": 16,
+      "height": 24,
+      "chars": [
+        "\ue494"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/c4.png",
+      "ascent": 16,
+      "height": 24,
+      "chars": [
+        "\ue495"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/c5.png",
+      "ascent": 16,
+      "height": 24,
+      "chars": [
+        "\ue496"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/c6.png",
+      "ascent": 16,
+      "height": 24,
+      "chars": [
+        "\ue497"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/c7.png",
+      "ascent": 16,
+      "height": 24,
+      "chars": [
+        "\ue498"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/c8.png",
+      "ascent": 16,
+      "height": 24,
+      "chars": [
+        "\ue499"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/c9.png",
+      "ascent": 16,
+      "height": 24,
+      "chars": [
+        "\ue500"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/c10.png",
+      "ascent": 16,
+      "height": 24,
+      "chars": [
+        "\ue501"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/c11.png",
+      "ascent": 16,
+      "height": 24,
+      "chars": [
+        "\ue502"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/c12.png",
+      "ascent": 16,
+      "height": 24,
+      "chars": [
+        "\ue503"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/c13.png",
+      "ascent": 16,
+      "height": 24,
+      "chars": [
+        "\ue504"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/c14.png",
+      "ascent": 16,
+      "height": 24,
+      "chars": [
+        "\ue505"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/full.png",
+      "ascent": 16,
+      "height": 24,
+      "chars": [
+        "\ue506"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/wip.png",
+      "ascent": 16,
+      "height": 24,
+      "chars": [
+        "\ue507"
+      ],
+      "_comment": "-------------------------------------------WIP End here-------------------------------------------"
+    }
+  ]
+}
