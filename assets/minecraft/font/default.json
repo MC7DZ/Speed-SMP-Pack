@@ -5,7 +5,7 @@
     {
       "_comment": "-------------------------------------------WIP start here-------------------------------------------",
       "type": "bitmap",
-      "file": "minecraft:wip/c1.png",
+      "file": "minecraft:wip/wip_default_color/c1.png",
       "ascent": 16,
       "height": 24,
       "chars": [
@@ -14,7 +14,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:wip/c2.png",
+      "file": "minecraft:wip/wip_default_color/c2.png",
       "ascent": 16,
       "height": 24,
       "chars": [
@@ -23,7 +23,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:wip/c3.png",
+      "file": "minecraft:wip/wip_default_color/c3.png",
       "ascent": 16,
       "height": 24,
       "chars": [
@@ -32,7 +32,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:wip/c4.png",
+      "file": "minecraft:wip/wip_default_color/c4.png",
       "ascent": 16,
       "height": 24,
       "chars": [
@@ -41,7 +41,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:wip/c5.png",
+      "file": "minecraft:wip/wip_default_color/c5.png",
       "ascent": 16,
       "height": 24,
       "chars": [
@@ -50,7 +50,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:wip/c6.png",
+      "file": "minecraft:wip/wip_default_color/c6.png",
       "ascent": 16,
       "height": 24,
       "chars": [
@@ -59,7 +59,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:wip/c7.png",
+      "file": "minecraft:wip/wip_default_color/c7.png",
       "ascent": 16,
       "height": 24,
       "chars": [
@@ -68,7 +68,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:wip/c8.png",
+      "file": "minecraft:wip/wip_default_color/c8.png",
       "ascent": 16,
       "height": 24,
       "chars": [
@@ -77,7 +77,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:wip/c9.png",
+      "file": "minecraft:wip/wip_default_color/c9.png",
       "ascent": 16,
       "height": 24,
       "chars": [
@@ -86,7 +86,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:wip/c10.png",
+      "file": "minecraft:wip/wip_default_color/c10.png",
       "ascent": 16,
       "height": 24,
       "chars": [
@@ -95,7 +95,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:wip/c11.png",
+      "file": "minecraft:wip/wip_default_color/c11.png",
       "ascent": 16,
       "height": 24,
       "chars": [
@@ -104,7 +104,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:wip/c12.png",
+      "file": "minecraft:wip/wip_default_color/c12.png",
       "ascent": 16,
       "height": 24,
       "chars": [
@@ -113,7 +113,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:wip/c13.png",
+      "file": "minecraft:wip/wip_default_color/c13.png",
       "ascent": 16,
       "height": 24,
       "chars": [
@@ -122,7 +122,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:wip/c14.png",
+      "file": "minecraft:wip/wip_default_color/c14.png",
       "ascent": 16,
       "height": 24,
       "chars": [
@@ -131,20 +131,38 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:wip/full.png",
-      "ascent": 16,
-      "height": 24,
+      "file": "minecraft:wip/wip_default_color/full.png",
+      "ascent": 14,
+      "height": 20,
       "chars": [
         "\ue491"
       ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:wip/wip.png",
-      "ascent": 16,
-      "height": 24,
+      "file": "minecraft:wip/wip_default_color/wip.png",
+      "ascent": 13,
+      "height": 20,
       "chars": [
         "\ue507"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/wip_default_color/full_disabled.png",
+      "ascent": 14,
+      "height": 20,
+      "chars": [
+        "\ue490"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/wip_default_color/wip_disabled.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue508"
       ],
       "_comment": "-------------------------------------------WIP End here-------------------------------------------"
     }
