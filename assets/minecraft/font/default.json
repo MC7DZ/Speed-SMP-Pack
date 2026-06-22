@@ -6,8 +6,8 @@
       "_comment": "-------------------------------------------WIP start here-------------------------------------------",
       "type": "bitmap",
       "file": "minecraft:wip/wip_default_color/c1.png",
-      "ascent": 16,
-      "height": 24,
+      "ascent": 13,
+      "height": 20,
       "chars": [
         "\ue492"
       ]
@@ -15,8 +15,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:wip/wip_default_color/c2.png",
-      "ascent": 16,
-      "height": 24,
+      "ascent": 13,
+      "height": 20,
       "chars": [
         "\ue493"
       ]
@@ -24,8 +24,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:wip/wip_default_color/c3.png",
-      "ascent": 16,
-      "height": 24,
+      "ascent": 13,
+      "height": 20,
       "chars": [
         "\ue494"
       ]
@@ -33,8 +33,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:wip/wip_default_color/c4.png",
-      "ascent": 16,
-      "height": 24,
+      "ascent": 13,
+      "height": 20,
       "chars": [
         "\ue495"
       ]
@@ -42,8 +42,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:wip/wip_default_color/c5.png",
-      "ascent": 16,
-      "height": 24,
+      "ascent": 13,
+      "height": 20,
       "chars": [
         "\ue496"
       ]
@@ -51,8 +51,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:wip/wip_default_color/c6.png",
-      "ascent": 16,
-      "height": 24,
+      "ascent": 13,
+      "height": 20,
       "chars": [
         "\ue497"
       ]
@@ -60,8 +60,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:wip/wip_default_color/c7.png",
-      "ascent": 16,
-      "height": 24,
+      "ascent": 13,
+      "height": 20,
       "chars": [
         "\ue498"
       ]
@@ -69,8 +69,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:wip/wip_default_color/c8.png",
-      "ascent": 16,
-      "height": 24,
+      "ascent": 13,
+      "height": 20,
       "chars": [
         "\ue499"
       ]
@@ -78,8 +78,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:wip/wip_default_color/c9.png",
-      "ascent": 16,
-      "height": 24,
+      "ascent": 13,
+      "height": 20,
       "chars": [
         "\ue500"
       ]
@@ -87,8 +87,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:wip/wip_default_color/c10.png",
-      "ascent": 16,
-      "height": 24,
+      "ascent": 13,
+      "height": 20,
       "chars": [
         "\ue501"
       ]
@@ -96,8 +96,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:wip/wip_default_color/c11.png",
-      "ascent": 16,
-      "height": 24,
+      "ascent": 13,
+      "height": 20,
       "chars": [
         "\ue502"
       ]
@@ -105,8 +105,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:wip/wip_default_color/c12.png",
-      "ascent": 16,
-      "height": 24,
+      "ascent": 13,
+      "height": 20,
       "chars": [
         "\ue503"
       ]
@@ -114,8 +114,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:wip/wip_default_color/c13.png",
-      "ascent": 16,
-      "height": 24,
+      "ascent": 13,
+      "height": 20,
       "chars": [
         "\ue504"
       ]
@@ -123,8 +123,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:wip/wip_default_color/c14.png",
-      "ascent": 16,
-      "height": 24,
+      "ascent": 13,
+      "height": 20,
       "chars": [
         "\ue505"
       ]
@@ -149,11 +149,20 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:wip/wip_default_color/full_disabled.png",
-      "ascent": 14,
+      "file": "minecraft:wip/wip_default_color/ready_disabled.png",
+      "ascent": 13,
       "height": 20,
       "chars": [
         "\ue490"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:wip/wip_default_color/ready.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue509"
       ]
     },
     {
