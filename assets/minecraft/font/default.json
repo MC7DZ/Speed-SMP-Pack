@@ -160,7 +160,7 @@
       "type": "bitmap",
       "file": "minecraft:wip/wip_default_color/ready.png",
       "ascent": 13,
-      "height": 20,
+      "height": 30,
       "chars": [
         "\ue509"
       ]
@@ -174,6 +174,525 @@
         "\ue508"
       ],
       "_comment": "-------------------------------------------WIP End here-------------------------------------------"
+    },
+    {
+      "_comment": "-------------------------------------------Phantom start here-------------------------------------------",
+      "type": "bitmap",
+      "file": "minecraft:phantom/c1.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue600"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/c2.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue601"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/c3.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue602"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/c4.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue603"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/c5.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue604"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/c6.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue605"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/c7.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue606"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/c8.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue607"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/c9.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue608"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/c10.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue609"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/c11.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue610"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/c12.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue611"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/c13.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue612"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/c14.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue613"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/full.png",
+      "ascent": 14,
+      "height": 20,
+      "chars": [
+        "\ue614"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/phantom.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue615"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/ready_disabled.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue616"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/ready.png",
+      "ascent": 14,
+      "height": 25,
+      "chars": [
+        "\ue617"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:phantom/phantom_disabled.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue618"
+      ],
+      "_comment": "-------------------------------------------Phantom End here-------------------------------------------"
+    },
+    {
+      "_comment": "-------------------------------------------Ember start here-------------------------------------------",
+      "type": "bitmap",
+      "file": "minecraft:ember/c1.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue700"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/c2.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue701"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/c3.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue702"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/c4.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue703"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/c5.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue704"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/c6.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue705"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/c7.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue706"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/c8.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue707"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/c9.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue708"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/c10.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue709"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/c11.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue710"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/c12.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue711"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/c13.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue712"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/c14.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue713"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/full.png",
+      "ascent": 14,
+      "height": 20,
+      "chars": [
+        "\ue714"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/ember.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue715"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/ready_disabled.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue716"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/ready.png",
+      "ascent": 14,
+      "height": 25,
+      "chars": [
+        "\ue717"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ember/ember_disabled.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue718"
+      ],
+      "_comment": "-------------------------------------------Ember End here-------------------------------------------"
+    },
+    {
+      "_comment": "-------------------------------------------Storm start here-------------------------------------------",
+      "type": "bitmap",
+      "file": "minecraft:storm/c1.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue800"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/c2.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue801"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/c3.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue802"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/c4.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue803"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/c5.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue804"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/c6.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue805"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/c7.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue806"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/c8.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue807"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/c9.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue808"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/c10.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue809"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/c11.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue810"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/c12.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue811"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/c13.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue812"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/c14.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue813"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/full.png",
+      "ascent": 14,
+      "height": 20,
+      "chars": [
+        "\ue814"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/storm.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue815"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/ready_disabled.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue816"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/ready.png",
+      "ascent": 14,
+      "height": 25,
+      "chars": [
+        "\ue817"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:storm/storm_disabled.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\ue818"
+      ],
+      "_comment": "-------------------------------------------Ember End here-------------------------------------------"
     }
   ]
 }
