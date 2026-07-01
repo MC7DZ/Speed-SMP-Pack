@@ -3,6 +3,21 @@
 
   "providers": [
     {
+      "_comment": "stylesGUI",
+      "type": "bitmap",
+      "file": "minecraft:gui/styles.png",
+      "ascent": 73,
+      "height": 256,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/pixel.png",
+      "ascent": -2000,
+      "height": -3,
+      "chars": [""]
+    },
+    {
       "_comment": "-------------------------------------------WIP start here-------------------------------------------",
       "type": "bitmap",
       "file": "minecraft:wip/wip_default_color/c1.png",
