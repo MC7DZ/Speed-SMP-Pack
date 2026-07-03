@@ -9,6 +9,13 @@
     },
     "entries": [
       {
+        "threshold": 1.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/speed_jar"
+        }
+      },
+      {
         "threshold": 2.0,
         "model": {
           "type": "minecraft:model",
@@ -16,10 +23,24 @@
         }
       },
       {
-        "threshold": 1.0,
+        "threshold": 3.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/speed_jar"
+          "model": "minecraft:item/ember"
+        }
+      },
+      {
+        "threshold": 4.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/phantom"
+        }
+      },
+      {
+        "threshold": 5.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/storm"
         }
       }
     ]
