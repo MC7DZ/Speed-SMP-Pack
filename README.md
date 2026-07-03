@@ -19,14 +19,7 @@
 
 The **SpeedSMP Resource Pack** is an essential component for the [SpeedSMP](https://modrinth.com/plugin/speedsmp) experience. It provides the necessary visual assets to support custom server-side mechanics, items, and interfaces.
 
-## ✨ Features
-
-*   **Custom Icons:** Unique iconography for server abilities and status effects.
-*   **Enhanced UI:** Custom-tailored menus and GUIs for better navigation.
-*   **Unique Equipment:** Custom textures and models for exclusive SpeedSMP weapons and tools.
-*   **Optimized Performance:** Designed to be lightweight while maintaining high visual quality.
-
-## 🛠 Server Administration
+##  Server Administration
 
 ### Quick Setup
 To integrate this pack into your server, add the following to your `server.properties`:
