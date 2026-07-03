@@ -25,10 +25,10 @@ The **SpeedSMP Resource Pack** is an essential component for the [SpeedSMP](http
 To integrate this pack into your server, add the following to your `server.properties`:
 
 ```properties
-resource-pack=https://download.mc-packs.net/pack/7fd6fc47eb945056d0f875060ed73a1abea439e6.zip
-resource-pack-sha1=7fd6fc47eb945056d0f875060ed73a1abea439e6
-resource-pack-id=086dc50c-e7bf-41c5-93d5-a9ebba4b3671
-resource-pack-prompt={"text":"SpeedSMP Resourcepack!", "color":"gold"}
+resource-pack=https://download.mc-packs.net/pack/2259e4246126e255f7115084693d52b12b298589.zip
+resource-pack-sha1=2259e4246126e255f7115084693d52b12b298589
+resource-pack-id=7455d5b0-25bc-4ca1-8277-fe003a93bbba
+resource-pack-prompt={"text":"SpeedSMP Resourcepack!", "color":"aqua"}
 require-resource-pack=true
 ```
 
