@@ -28,7 +28,7 @@ To integrate this pack into your server, add the following to your `server.prope
 resource-pack=https://download.mc-packs.net/pack/2259e4246126e255f7115084693d52b12b298589.zip
 resource-pack-sha1=2259e4246126e255f7115084693d52b12b298589
 resource-pack-id=7455d5b0-25bc-4ca1-8277-fe003a93bbba
-resource-pack-prompt={"text":"SpeedSMP Resourcepack!", "color":"aqua"}
+resource-pack-prompt={"text":"SpeedSMP Resourcepack! v1.1", "color":"aqua"}
 require-resource-pack=true
 ```
 
